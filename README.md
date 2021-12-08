@@ -5,3 +5,4 @@ Create a visualization of the phylogenetic tree, multiple sequence alignment, an
 *  Do we blast all of the possible sequences from all organisms or a single organism?
 *  get all of the genbank accession id codes and then use entrez direct and bash commands to create fasta files
 * https://www.ncbi.nlm.nih.gov/nuccore/?term=DHFR
+* based off of lab7: https://github.com/bioe131/lab-7-samihamahin/blob/main/assignment.ipynb
