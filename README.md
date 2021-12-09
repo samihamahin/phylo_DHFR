@@ -9,4 +9,4 @@ Create a visualization of the phylogenetic tree, multiple sequence alignment, an
 * https://www.ncbi.nlm.nih.gov/nuccore/?term=DHFR
 * based off of lab7: https://github.com/bioe131/lab-7-samihamahin/blob/main/assignment.ipynb -> how do we generate the fasta files, given fasta files in lab before
 
-* can look at what sequences are conserved and mapping that onto the phylogenetic tree can look by using website interpro
+* can look at what sequences are conserved and mapping that onto the phylogenetic tree can look by using website interpro: http://www.ebi.ac.uk/interpro/protein/UniProt/P00374/
