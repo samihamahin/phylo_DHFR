@@ -68,7 +68,8 @@ The package FastTree is used to generate maximum-liklelihood phylogenetic tree f
 ![Image](https://cdn.glitch.me/77fd1bef-262b-4f82-8045-a63a12a58782%2Fseq501-555.png?v=1639107597343)
 
 ### L. Phylogenetic Tree
-![Image](https://cdn.glitch.me/77fd1bef-262b-4f82-8045-a63a12a58782%2Fphylo_tree_annotated.png?v=1639109028628)
+![Image](https://cdn.glitch.me/77fd1bef-262b-4f82-8045-a63a12a58782%2Fphylo_tree_annotated.png?v=1639109028628){:height="36px" width="36px"}
+
 
 # Discussion
 
