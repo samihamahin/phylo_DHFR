@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Phylogenetic Analysis of Dihydrofolate reductase
+
 
 You can use the [editor on GitHub](https://github.com/samihamahin/phylo_DHFR/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
